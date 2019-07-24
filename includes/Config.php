@@ -9,7 +9,7 @@ define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 define('ADMIN_SLUG', '');
 define('ADMIN_DIR', 'admin');
-define('SUBFOLDER', '/piano');
+define('SUBFOLDER', '/spellathrone1');
 define('SALT_STR', '$2y$10$WXHXicWqQLS');
 define('DATE_DEFAULT', 'Y-m-d H:i:s');
 
